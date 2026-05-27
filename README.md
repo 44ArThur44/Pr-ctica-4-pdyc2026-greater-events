@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+<<<<<<< Arthur V. 
+<<<<<<< Rodrigo Ruiz Benavides
+
+
 # Event & Artist Management API (Spring Boot + Keycloak OAuth2)
 
 ## 1. PROJECT OVERVIEW
